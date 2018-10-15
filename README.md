@@ -12,6 +12,9 @@ So, you need to convert it like this: "":[your_token_from VSTS] and then gerate 
 
       var authorization = "Basic xxxxxx"
 
+The VSTS url project must be change 
+
+      var urlBase = "https://[your_organization].visualstudio.com/[project]/_apis/wit";
 
 # Add a workitem
 
