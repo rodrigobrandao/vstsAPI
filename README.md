@@ -12,10 +12,10 @@ You can start HTTP server with
 # Add a workitem
 
 Acess http://localhost:8888/Workitem/Add
-https://raw.githubusercontent.com/rodrigobrandao/vstsAPI/master/printWorkItemGet.jpg
+![alt text](https://raw.githubusercontent.com/rodrigobrandao/vstsAPI/master/printWorkItemAdd.jpg)
 
 # Get a list workitems
 
 Acess http://localhost:8888/Workitem/Add
-
+![alt text](https://raw.githubusercontent.com/rodrigobrandao/vstsAPI/master/printWorkItemGet.jpg)
 
