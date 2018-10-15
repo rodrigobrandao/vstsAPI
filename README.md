@@ -7,7 +7,8 @@ You can start HTTP server with
 
       node index.js
 
-The file module/vsts.js requires authorization from VSTS Base64 and you need to convert it like this: "":[your_token_from VSTS] 
+The file module/vsts.js requires authorization from VSTS Base64 
+So, you need to convert it like this: "":[your_token_from VSTS] and then gerate a Base64 string
 
       var authorization = "Basic xxxxxx"
 
